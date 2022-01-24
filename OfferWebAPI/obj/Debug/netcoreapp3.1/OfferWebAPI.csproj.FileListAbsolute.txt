@@ -22,3 +22,9 @@ C:\Users\nikol\source\repos\OfferWebAPI\OfferWebAPI\obj\Debug\netcoreapp3.1\Offe
 C:\Users\nikol\source\repos\OfferWebAPI\OfferWebAPI\obj\Debug\netcoreapp3.1\OfferWebAPI.dll
 C:\Users\nikol\source\repos\OfferWebAPI\OfferWebAPI\obj\Debug\netcoreapp3.1\OfferWebAPI.pdb
 C:\Users\nikol\source\repos\OfferWebAPI\OfferWebAPI\obj\Debug\netcoreapp3.1\OfferWebAPI.genruntimeconfig.cache
+C:\Users\nikol\source\repos\OfferWebAPI\OfferWebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\nikol\source\repos\OfferWebAPI\OfferWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\nikol\source\repos\OfferWebAPI\OfferWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\nikol\source\repos\OfferWebAPI\OfferWebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\nikol\source\repos\OfferWebAPI\OfferWebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nikol\source\repos\OfferWebAPI\OfferWebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
